@@ -1,0 +1,32 @@
+{
+    "thumbs_up": {
+        "name": "Thumbs Up",
+        "finger_pattern": [true, false, false, false, false],
+        "description": "Thumb extended, all other fingers folded"
+    },
+    "peace": {
+        "name": "Peace Sign",
+        "finger_pattern": [false, true, true, false, false],
+        "description": "Index and middle fingers extended, others folded"
+    },
+    "ok": {
+        "name": "OK Sign",
+        "finger_pattern": [true, true, false, false, false],
+        "description": "Thumb and index form circle, others extended"
+    },
+    "pointing": {
+        "name": "Pointing",
+        "finger_pattern": [false, true, false, false, false],
+        "description": "Only index finger extended"
+    },
+    "open_palm": {
+        "name": "Open Palm",
+        "finger_pattern": [true, true, true, true, true],
+        "description": "All fingers extended"
+    },
+    "closed_fist": {
+        "name": "Closed Fist",
+        "finger_pattern": [false, false, false, false, false],
+        "description": "All fingers folded"
+    }
+}

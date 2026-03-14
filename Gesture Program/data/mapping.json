@@ -1,0 +1,38 @@
+{
+    "USA": {
+        "thumbs_up": "Good job!",
+        "peace": "Peace",
+        "ok": "OK",
+        "pointing": "Look there",
+        "open_palm": "Stop",
+        "closed_fist": "Fight!",
+        "unknown": "Gesture not recognized"
+    },
+    "Japan": {
+        "thumbs_up": "Good",
+        "peace": "Peace/Victory",
+        "ok": "Money",
+        "pointing": "That one",
+        "open_palm": "Five",
+        "closed_fist": "Angry",
+        "unknown": "Unknown gesture"
+    },
+    "India": {
+        "thumbs_up": "Good",
+        "peace": "Victory",
+        "ok": "Everything is fine",
+        "pointing": "This one",
+        "open_palm": "Welcome",
+        "closed_fist": "Stop",
+        "unknown": "Gesture not recognized"
+    },
+    "Italy": {
+        "thumbs_up": "Perfect",
+        "peace": "Peace",
+        "ok": "Perfect",
+        "pointing": "Look",
+        "open_palm": "What do you want?",
+        "closed_fist": "Enough",
+        "unknown": "Non capisco"
+    }
+}

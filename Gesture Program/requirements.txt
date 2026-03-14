@@ -1,0 +1,5 @@
+opencv-python==4.13.0.92
+numpy==2.4.1
+pyttsx3==2.98
+Pillow==12.1.1
+# MediaPipe will be installed separately
